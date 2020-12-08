@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_projects\\aadb2c\\web\\web.csproj": {}
+    "F:\\_projects\\aadb2c\\web\\web.csproj": {}
   },
   "projects": {
-    "C:\\_projects\\aadb2c\\web\\web.csproj": {
+    "F:\\_projects\\aadb2c\\web\\web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_projects\\aadb2c\\web\\web.csproj",
+        "projectUniqueName": "F:\\_projects\\aadb2c\\web\\web.csproj",
         "projectName": "web",
-        "projectPath": "C:\\_projects\\aadb2c\\web\\web.csproj",
-        "packagesPath": "C:\\Users\\pieterd\\.nuget\\packages\\",
-        "outputPath": "C:\\_projects\\aadb2c\\web\\obj\\",
+        "projectPath": "F:\\_projects\\aadb2c\\web\\web.csproj",
+        "packagesPath": "C:\\Users\\pwje\\.nuget\\packages\\",
+        "outputPath": "F:\\_projects\\aadb2c\\web\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pieterd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\pwje\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
